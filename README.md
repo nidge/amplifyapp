@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+I think this project was created by following the steps in the [tutorial](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
 [AWS Amplify link](https://eu-west-2.console.aws.amazon.com/amplify/home?region=eu-west-2#/dw3nzwymoaa65)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
